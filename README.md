@@ -1,10 +1,5 @@
 # Number_Recognition
 Handwritten digit recognition system not only detects scanned images of handwritten digits.Handwritten digit recognition using MNIST dataset is a major project made  with the help of Neural Network. It basically detects the scanned images of handwritten digits.
-# Handwritten Digit Recognition using Machine Learning and Deep Learning
-
-## Published Paper 
-
-[IJARCET-VOL-6-ISSUE-7-990-997](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-6-ISSUE-7-990-997.pdf)
 
 # Requirements
 
@@ -23,8 +18,6 @@ curl -O http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
 curl -O http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
 curl -O http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
 ```
-
-**Alternatively, you can download the [dataset from here](https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/blob/master/dataset.zip), unzip the files and place them in the respected folders.**
 
 **2.** Unzip and place the files in the dataset folder inside the MNIST_Dataset_Loader folder under each ML Algorithm folder i.e :
 
